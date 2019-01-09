@@ -1,0 +1,14 @@
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\bin\Debug\netcoreapp2.1\DateApp.deps.json
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\bin\Debug\netcoreapp2.1\DateApp.runtimeconfig.json
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\bin\Debug\netcoreapp2.1\DateApp.runtimeconfig.dev.json
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\bin\Debug\netcoreapp2.1\DateApp.dll
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\bin\Debug\netcoreapp2.1\DateApp.pdb
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\obj\Debug\netcoreapp2.1\DateApp.csproj.CoreCompileInputs.cache
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\obj\Debug\netcoreapp2.1\DateApp.RazorAssemblyInfo.cache
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\obj\Debug\netcoreapp2.1\DateApp.RazorAssemblyInfo.cs
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\obj\Debug\netcoreapp2.1\DateApp.AssemblyInfoInputs.cache
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\obj\Debug\netcoreapp2.1\DateApp.AssemblyInfo.cs
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\obj\Debug\netcoreapp2.1\DateApp.RazorTargetAssemblyInfo.cache
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\obj\Debug\netcoreapp2.1\DateApp.dll
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\obj\Debug\netcoreapp2.1\DateApp.pdb
+D:\Projects\DateApp(DotnetCore)\DateApp\DateApp\obj\Debug\netcoreapp2.1\DateApp.csprojAssemblyReference.cache
